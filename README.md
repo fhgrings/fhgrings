@@ -35,6 +35,11 @@
 
 * SCRUM FCO
 * GitLab Associete
+* Digital Prototyping Designer
+* Embedded Systems Designer
+* Fundamental Electronics Designer
+* Software Development Fundamentals
+
 
 <!--
 **fhgrings/fhgrings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
