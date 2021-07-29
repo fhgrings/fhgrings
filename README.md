@@ -17,11 +17,10 @@
 * Linux    - https://github.com/fhgrings/Linux
 * Shell    - https://github.com/fhgrings/Shell-Playground
 * DevOps
-** Gitlab  - https://github.com/fhgrings/GitLab-CI-CD
-** Ansible - https://github.com/fhgrings/Ansible-Playground
-** Jenkins - https://github.com/fhgrings/Jenkins-Playground
-** Docker  - https://github.com/fhgrings/Docker-Playground
-
+  * Gitlab  - https://github.com/fhgrings/GitLab-CI-CD
+  * Ansible - https://github.com/fhgrings/Ansible-Playground
+  * Jenkins - https://github.com/fhgrings/Jenkins-Playground
+  * Docker  - https://github.com/fhgrings/Docker-Playground 
 
 #### Joy
 
