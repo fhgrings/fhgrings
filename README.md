@@ -5,8 +5,7 @@
 * Felipe Grings
 * 23 years
 * Computer Engineer @ Universidade do Vale do Rio do  Sinos
-* Infrastructure Engineer
-* DevOps Engineer
+* Infrastructure | Devops Engineer
 * Masters Applied Computing Student
 * Young, Free and in love with life and knowledge
 
