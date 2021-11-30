@@ -20,7 +20,7 @@
   * Ansible      - https://github.com/fhgrings/Ansible-Playground
   * Jenkins      - https://github.com/fhgrings/Jenkins-Playground
   * Docker       - https://github.com/fhgrings/Docker-Playground 
-* Internet of Things - Private for now - Computing Engineer Conclusion Work
+* Internet of Things - Computing Engineer Conclusion Work - https://github.com/fhgrings/match-io
 
 #### Joy
 
