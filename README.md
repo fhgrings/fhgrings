@@ -4,9 +4,9 @@
 
 * Felipe Grings
 * 23 years
-* Computer Engineer @ Universidade do Vale do Rio do  Sinos
+* Computer Engineer - Universidade do Vale do Rio do  Sinos -> Final Paper (https://github.com/fhgrings/match-io/blob/main/match-io_paper_Felipe-Grings.pdf)
 * Infrastructure | Devops Engineer
-* Masters Applied Computing Student
+* Masters Applied Computing Student - Researching about 5G Core Network Slicing
 * Young, Free and in love with life and knowledge
 
 ### What I'am studying
@@ -14,15 +14,15 @@
 #### Mainly
 
 * Linux    - https://github.com/fhgrings/Linux
-* Shell    - https://github.com/fhgrings/Shell-Playground
+* Internet of Things - Computing Engineer Conclusion Work - https://github.com/fhgrings/match-io
 * DevOps
   * Gitlab       - https://github.com/fhgrings/GitLab-CI-CD
   * Ansible      - https://github.com/fhgrings/Ansible-Playground
   * Jenkins      - https://github.com/fhgrings/Jenkins-Playground
   * Docker       - https://github.com/fhgrings/Docker-Playground 
-* Internet of Things - Computing Engineer Conclusion Work - https://github.com/fhgrings/match-io
+* Shell    - https://github.com/fhgrings/Shell-Playground
 
-#### Joy
+#### For Fun
 
 * Artificial Intelligence - https://github.com/fhgrings/IA-Playground
 * Computer Vision         - https://github.com/fhgrings/Python-Playground/tree/master/image-processing
