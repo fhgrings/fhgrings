@@ -2,14 +2,14 @@
 
 ## Who am I?
 
-* Felipe Grings
+* [Felipe Grings](https://www.linkedin.com/in/felipehg/)
 * 23 years
 * Computer Engineer - Universidade do Vale do Rio do  Sinos -> [Final Paper](https://github.com/fhgrings/match-io/blob/main/match-io_paper_Felipe-Grings.pdf)
 * Infrastructure | Devops Engineer
 * Masters Applied Computing Student - Researching about 5G Core Network Slicing
 * Young, Free and in love with life and knowledge
 
-### What I'am studying
+### What I'am studying?
 
 #### Mainly
 
