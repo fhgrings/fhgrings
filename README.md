@@ -16,6 +16,7 @@
 * Linux    - https://github.com/fhgrings/Linux
 * Internet of Things - Computing Engineer Conclusion Work - https://github.com/fhgrings/match-io
 * DevOps
+  * Free5GC K8s AWS Provisioning - https://github.com/fhgrings/5g-core-network-slicing
   * Gitlab       - https://github.com/fhgrings/GitLab-CI-CD
   * Ansible      - https://github.com/fhgrings/Ansible-Playground
   * Jenkins      - https://github.com/fhgrings/Jenkins-Playground
