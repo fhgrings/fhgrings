@@ -23,6 +23,9 @@
   * TCPDump      - https://github.com/fhgrings/wireshark-playground
 * Shell    - https://github.com/fhgrings/Shell-Playground
 
+#### Telecom - 5G/6G
+  * Network Slice 5G Core on k8s cluster  - https://github.com/fhgrings/FDO-5g
+
 #### For Fun
 
 * Artificial Intelligence - https://github.com/fhgrings/IA-Playground
