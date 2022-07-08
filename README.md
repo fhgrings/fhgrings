@@ -24,7 +24,7 @@
 * Shell    - https://github.com/fhgrings/Shell-Playground
 
 #### Telecom - 5G/6G
-  * Network Slice 5G Core on k8s cluster  - https://github.com/fhgrings/FDO-5g
+  * Network Slice 5G Core on k8s cluster  - https://github.com/fhgrings/FDO-5gc
 
 #### For Fun
 
