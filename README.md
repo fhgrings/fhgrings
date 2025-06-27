@@ -5,9 +5,8 @@
 * [Felipe Grings](https://www.linkedin.com/in/felipehg/)
 * Computer Engineer - Universidade do Vale do Rio do  Sinos -> [Final Paper](https://github.com/fhgrings/match-io/blob/main/match-io_paper_Felipe-Grings.pdf)
 * Infrastructure | Devops Engineer
-* Masters Applied Computing Student - Researching about 5G Core Network Slicing
-* Young, Free and in love with life and knowledge
-
+* Master in Applied Computing - Beyound 5G Core Network Slicing - [Final Paper](https://github.com/fhgrings/NASP)
+  
 ### What I'am studying?
 
 #### Mainly
@@ -21,6 +20,7 @@
   * Jenkins      - https://github.com/fhgrings/Jenkins-Playground
   * Docker       - https://github.com/fhgrings/Docker-Playground 
   * TCPDump      - https://github.com/fhgrings/wireshark-playground
+  * AWS AWS Certified SysOps Administrator - 
 * Shell    - https://github.com/fhgrings/Shell-Playground
 
 #### Telecom - 5G/6G
@@ -31,7 +31,6 @@
 * Artificial Intelligence - https://github.com/fhgrings/IA-Playground
 * Computer Vision         - https://github.com/fhgrings/Python-Playground/tree/master/image-processing
 * Software Architechture  - https://github.com/fhgrings/Cloud-Native
-* Embedded Linux          - Private for now
 
 
 ### Certificates
