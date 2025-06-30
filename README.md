@@ -3,9 +3,9 @@
 ## Who am I?
 
 * [Felipe Grings](https://www.linkedin.com/in/felipehg/)
-* Computer Engineer - Universidade do Vale do Rio do  Sinos -> [Final Paper](https://github.com/fhgrings/match-io/blob/main/match-io_paper_Felipe-Grings.pdf)
-* Infrastructure | Devops Engineer
+* Computer Engineer - Universidade do Vale do Rio do  Sinos - [Final Paper](https://github.com/fhgrings/match-io/blob/main/match-io_paper_Felipe-Grings.pdf)
 * Master in Applied Computing - Beyound 5G Core Network Slicing - [Final Paper](https://github.com/fhgrings/NASP)
+* Infrastructure Delivery | DevOps Engineer
   
 ### What I'am studying?
 
