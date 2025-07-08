@@ -1,12 +1,16 @@
-# Welcome to Felipe Grings GitHub. Enjoy the journey.
+# Welcome to Felipe Grings GitHub.
 
-## Who am I?
+**Infrastructure Delivery | DevOps Engineer**
 
-* [Felipe Grings](https://www.linkedin.com/in/felipehg/)
-* Computer Engineer - Universidade do Vale do Rio do  Sinos - [Final Paper](https://github.com/fhgrings/match-io/blob/main/match-io_paper_Felipe-Grings.pdf)
-* Master in Applied Computing - Beyound 5G Core Network Slicing - [Final Paper](https://github.com/fhgrings/NASP)
-* Infrastructure Delivery | DevOps Engineer
-  
+<p style="text-align: center;"><a href="https://github.com/fhgrings/NASP">Master in Applied Computing - Beyound 5G Core Network Slicing</a></p>
+
+![NASP](./images/nasp.png)
+
+<p style="text-align: center;"><a href="https://github.com/fhgrings/match-io">Computer Engineer Final Work - Universidade do Vale do Rio do  Sinos</a></p>
+
+![Match-io](./images/match-io.png)
+
+
 ### What I'am studying?
 
 #### Mainly
@@ -41,19 +45,3 @@
 * Embedded Systems Designer
 * Fundamental Electronics Designer
 * Software Development Fundamentals
-
-
-<!--
-**fhgrings/fhgrings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
